@@ -1,0 +1,2 @@
+# FARM_AI_PROMPT.md
+ design a Python-based AI livestock management system for a goat breeding farm.
